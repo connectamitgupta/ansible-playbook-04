@@ -1,0 +1,5 @@
+---
+- hosts: ansiblenodes
+  roles: 
+  #- tomcatinstall
+   - tomcat
